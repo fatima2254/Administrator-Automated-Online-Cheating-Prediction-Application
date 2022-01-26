@@ -1,0 +1,73 @@
+ ALL keys pressed during Test: 
+
+ ,Data
+0,"EST   KEY   ALONG   WITHBRACKET   which diagrams are used to distribute files, libraries, and tables across topology of the hardware?"
+1, AND   A          PYHTN  ON  
+ Data of Search History during Testing: 
+
+  ,Data
+0, degree college abdullah pur 
+1, New Tab 
+2, www.google.com 
+Information of Other opened Apps during Test: 
+,WhatsApp?,Skype ?,Notepad ?,Other Text type system files ?
+0,0,0,0,0
+
+ 
+ **** Total cheating prediction against each question according to search history and keyboard keys *** 
+,Question_No,Question Details,Search_cheating_%,Keys_cheating_%
+0,1,"who consider diagrams as a type of Class diagram, component diagram, object diagram, and deployment diagram?",0.03333333333333333,0.03300416024109777
+1,2,which diagram is used to show interactions between messages are classified as?,0.03333333333333333,0.03343179946335226
+2,3,"which diagrams are used to distribute files, libraries, and tables across topology of the hardware?",0.03333333333333333,0.0472277822088297
+3,4,which of these abstractions class consist?,0.03333333333333333,0.03219468817389335
+4,5,An operation can be described as?,0.03333333333333333,0.03219468817389335
+5,6,An object symbol is divided into how many part of compartment,0.03333333333333333,0.03219468817389335
+6,7,Abstraction has how many types,0.03333333333333333,0.03219468817389335
+7,8,The vertical dimension of a sequence diagram shows,0.03333333333333333,0.03219468817389335
+8,9,The time oriented diagram include ,0.03333333333333333,0.03219468817389335
+9,10,Cohesion and coupling are represented by using ,0.03333333333333333,0.03219468817389335
+10,11,How do you design the Vending Machine in Java? ,0.03333333333333333,0.03219468817389335
+11,12,How do you design a URL Shortening service like goo.gl or bit.ly,0.03333333333333333,0.03219468817389335
+12,13,How do you design a traffic control system?,0.03333333333333333,0.03219468817389335
+13,14, How to design a limit order book for trading systems? ,0.03333333333333333,0.03219468817389335
+14,15,How do you design a website like Pastebin?,0.03333333333333333,0.03219468817389335
+15,16,"who consider diagrams as a type of Class diagram, component diagram, object diagram, and deployment diagram?",0.03333333333333333,0.03300416024109777
+16,17,which diagram is used to show interactions between messages are classified as?,0.03333333333333333,0.03343179946335226
+17,18,"which diagrams are used to distribute files, libraries, and tables across topology of the hardware?",0.03333333333333333,0.0472277822088297
+18,19,which of these abstractions class consist?,0.03333333333333333,0.03219468817389335
+19,20,An operation can be described as?,0.03333333333333333,0.03219468817389335
+20,21,An object symbol is divided into how many part of compartment,0.03333333333333333,0.03219468817389335
+21,22,Abstraction has how many types,0.03333333333333333,0.03219468817389335
+22,23,The vertical dimension of a sequence diagram shows,0.03333333333333333,0.03219468817389335
+23,24,The time oriented diagram include ,0.03333333333333333,0.03219468817389335
+24,25,Cohesion and coupling are represented by using ,0.03333333333333333,0.03219468817389335
+25,26,How do you design the Vending Machine in Java? ,0.03333333333333333,0.03219468817389335
+26,27,How do you design a URL Shortening service like goo.gl or bit.ly,0.03333333333333333,0.03219468817389335
+27,28,How do you design a traffic control system?,0.03333333333333333,0.03219468817389335
+28,29, How to design a limit order book for trading systems? ,0.03333333333333333,0.03219468817389335
+29,30,How do you design a website like Pastebin?,0.03333333333333333,0.03219468817389335
+ 
+
+ Average Cheating Prediction of the Test according to (out of 80%) 
+ 	 * Key Logs contains 40% of 80% 
+	 * Browser History have 60% of 80%
+,Search \ Key Stoke Data,Percentage %,cheating_Prediction
+0,Total cheating Prediction (Key Logs & Browser History) ,80% out of 100%,0.009508673014826514
+1,Cheating according to Browsing history,60% out of 80%,0.0
+2,Cheating according to Keylogs prediction,40% out of 80%,0.011885841268533141
+
+
+Cheating Prediction of other APPs ( out of 20%)
+ ,Cheating of other Apps ,Percentage %,cheating_Prediction
+0,Notepad/PowerPoint/Skype/whatsapp,20 out of 100,0
+
+
+Total cheating prediction of the current Test
+ ,Cheating Source,Percentage %,cheating_Prediction
+0, keys of Keyboard / Internet Browser,80 out of 100,0.009508673014826514
+1,Notepad/PowerPoint/Skype/whatsapp,20 out of 100,0.0
+2,Total Cheating Prediction,100 out of 100,0.009508673014826514
+
+
+
+ **** End *****

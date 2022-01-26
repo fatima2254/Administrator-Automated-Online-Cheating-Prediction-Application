@@ -1,0 +1,24 @@
+fatima 12345
+Process : WindowsInternal.ComposableShell.Experiences.TextInput.InputApp , Title: Microsoft Text Input Application , Process Time : 0 Days, 7 Hours, 38 Minutes, 53 Seconds and 818 Milliseconds
+Process : ApplicationFrameHost , Title: Settings , Process Time : 0 Days, 7 Hours, 38 Minutes, 53 Seconds and 826 Milliseconds
+Process : Microsoft.Notes , Title: Title , Process Time : 0 Days, 7 Hours, 38 Minutes, 53 Seconds and 849 Milliseconds
+Process : chrome , Title: degree college abdullah pur - Google Search - Google Chrome , Process Time : 0 Days, 2 Hours, 10 Minutes, 51 Seconds and 922 Milliseconds
+Process : SystemSettings , Title: Settings , Process Time : 0 Days, 4 Hours, 23 Minutes, 28 Seconds and 778 Milliseconds
+Process : Video.UI , Title: Movies & TV , Process Time : 0 Days, 7 Hours, 37 Minutes, 18 Seconds and 789 Milliseconds
+Process : Admin_SSDA , Title: studentData , Process Time : 0 Days, 0 Hours, 0 Minutes, 9 Seconds and 521 Milliseconds
+fatima 12345
+Process : WindowsInternal.ComposableShell.Experiences.TextInput.InputApp , Title: Microsoft Text Input Application , Process Time : 0 Days, 7 Hours, 39 Minutes, 23 Seconds and 719 Milliseconds
+Process : ApplicationFrameHost , Title: Settings , Process Time : 0 Days, 7 Hours, 39 Minutes, 23 Seconds and 736 Milliseconds
+Process : Microsoft.Notes , Title: Title , Process Time : 0 Days, 7 Hours, 39 Minutes, 23 Seconds and 759 Milliseconds
+Process : chrome , Title: New Tab - Google Chrome , Process Time : 0 Days, 2 Hours, 11 Minutes, 21 Seconds and 881 Milliseconds
+Process : SystemSettings , Title: Settings , Process Time : 0 Days, 4 Hours, 23 Minutes, 58 Seconds and 772 Milliseconds
+Process : Video.UI , Title: Movies & TV , Process Time : 0 Days, 7 Hours, 37 Minutes, 48 Seconds and 791 Milliseconds
+Process : Admin_SSDA , Title: 30 , Process Time : 0 Days, 0 Hours, 0 Minutes, 39 Seconds and 572 Milliseconds
+fatima 12345
+Process : WindowsInternal.ComposableShell.Experiences.TextInput.InputApp , Title: Microsoft Text Input Application , Process Time : 0 Days, 7 Hours, 39 Minutes, 53 Seconds and 700 Milliseconds
+Process : ApplicationFrameHost , Title: Settings , Process Time : 0 Days, 7 Hours, 39 Minutes, 53 Seconds and 724 Milliseconds
+Process : Microsoft.Notes , Title: Title , Process Time : 0 Days, 7 Hours, 39 Minutes, 53 Seconds and 747 Milliseconds
+Process : chrome , Title: www.google.com - Google Chrome , Process Time : 0 Days, 2 Hours, 11 Minutes, 51 Seconds and 810 Milliseconds
+Process : SystemSettings , Title: Settings , Process Time : 0 Days, 4 Hours, 24 Minutes, 28 Seconds and 659 Milliseconds
+Process : Video.UI , Title: Movies & TV , Process Time : 0 Days, 7 Hours, 38 Minutes, 18 Seconds and 671 Milliseconds
+Process : Admin_SSDA , Title: 59 , Process Time : 0 Days, 0 Hours, 1 Minutes, 9 Seconds and 403 Milliseconds
